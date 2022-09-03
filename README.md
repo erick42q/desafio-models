@@ -3,12 +3,12 @@
 Banco de teste já no projeto. 
 
 ### Rodar o projeto:
-  * após clonar ativar a virtualenv
+  * após clonar o projeto, ativar a virtualenv
   * instalar dependencias
   ```pip install -r requirements.txt```
   
   * rodar projeto:
-  ```python manager.py runserver```
+  ```python manage.py runserver```
 
   * acessos ao admin:
     * localhost:8000
